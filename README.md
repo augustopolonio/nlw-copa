@@ -1,0 +1,2 @@
+# NLW-COPA (Trilha Ignite)
+Projeto desenvolvido na 10ª edição do NLW (Next Level Week) entre os dias 31/10 e 04/11. O treinamento foi realizado pela equipe da Rocketseat, sendo conduzido pelos instrutores Diego e Rodrigo na Trilha Ignite. O projeto consiste em construir a versão web e mobile de um bolão de jogos da Copa do Mundo, utilizando as tecnologias mais atuais do mercado com uma abordagem atualizada, também utilizando técnicas de clean code.
