@@ -1,5 +1,27 @@
-# NLW-COPA (Trilha Ignite)
-Projeto desenvolvido na 10ª edição do NLW (Next Level Week) entre os dias 31/10 e 04/11. O treinamento foi realizado pela equipe da Rocketseat, sendo conduzido pelos instrutores Diego e Rodrigo na Trilha Ignite. O projeto consiste em construir a versão web e mobile de um bolão de jogos da Copa do Mundo, utilizando as tecnologias mais atuais do mercado com uma abordagem atualizada, também utilizando técnicas de clean code.
+## NLW-COPA (Trilha Ignite)
+
+### 💻 About the project
+NLW-Copa is a project that consists in build a web and mobile application to simulate betting in games of FIFA World Cup Qatar 2022™, using the most demanded technologies with an updated approach and also using clean code techniques.
+
+This project was developed on 10th NLW edition (Next Level Week). The training was given by the <a href="https://github.com/rocketseat-education">Rocketseat</a> team and was guided by the instructors <a href="https://github.com/diego3g">Diego Fernandes</a> e <a href="https://github.com/rodrigorgtic">Rodrigo Gonçalves</a> on Trilha Ignite. 
+
+### 📲 Main Technologies
+- [x] React
+- [x] React Native
+- [x] Typescript
+- [x] Native Base
+- [x] Fastify
+- [x] Prisma
+- [x] Tailwind
+- [x] Zod
+- [x] Expo
+- [x] Expo Go
+- [x] Axios
+- [x] OAuth2 (Google Authentication)
+- [x] JWT
+- [x] Async Storage
+
+### 🏷️ Layout
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/5185725/200353210-c00f39a4-f425-4181-b736-b75733160acb.png">
